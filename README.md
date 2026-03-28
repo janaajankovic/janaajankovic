@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Jana
 
 🎓 **Master's student in Applied Computer Science and Informatics** at the Faculty of Technical Sciences (FTN), Novi Sad.
+
 💻 **Backend & Full-Stack Developer** passionate about Software Architecture, Domain-Driven Design (DDD), and building scalable systems.
 
 ### 🔭 Currently working on:
