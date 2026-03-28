@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jana
 
-<!--
-**janaajankovic/janaajankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's student in Applied Computer Science and Informatics** at the Faculty of Technical Sciences (FTN), Novi Sad.
+💻 **Backend & Full-Stack Developer** passionate about Software Architecture, Domain-Driven Design (DDD), and building scalable systems.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on:
+- **Master's Thesis:** Developing a **Context-Aware / Risk-Based Authentication Engine** to dynamically evaluate and enhance system security.
+- Exploring distributed systems and robust API design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Interests:
+- **Languages:** C#, Java, Go, Python, TypeScript
+- **Frameworks:** .NET, Spring Boot, Angular, Vue.js
+- **Databases & Tools:** PostgreSQL, SQL Server, MongoDB, Elasticsearch, Docker, Git
+- **Core Interests:** API Design, Database Normalization, Clean Code
+
+### 📫 Let's connect:
+- **LinkedIn:** https://www.linkedin.com/in/jana-jankovic-9a3995356/
