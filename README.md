@@ -12,7 +12,6 @@
 - **Languages:** C#, Java, Go, Python, TypeScript
 - **Frameworks:** .NET, Spring Boot, Angular, Vue.js
 - **Databases & Tools:** PostgreSQL, SQL Server, MongoDB, Elasticsearch, Docker, Git
-- **Core Interests:** API Design, Database Normalization, Clean Code
 
 ### 📫 Let's connect:
 - **LinkedIn:** https://www.linkedin.com/in/jana-jankovic-9a3995356/
