@@ -2,7 +2,7 @@
 
 🎓 **Master's student in Applied Computer Science and Informatics** at the Faculty of Technical Sciences (FTN), Novi Sad.
 
-💻 **Backend & Full-Stack Developer** passionate about Software Architecture, Domain-Driven Design (DDD), and building scalable systems.
+💻 **Backend & Full-Stack Developer** passionate about Software Architecture and building scalable systems.
 
 ### 🔭 Currently working on:
 - **Master's Thesis:** Developing a **Context-Aware / Risk-Based Authentication Engine** to dynamically evaluate and enhance system security.
