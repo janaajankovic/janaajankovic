@@ -8,9 +8,9 @@
 
 ### ⭐ Featured Projects
 - **[RiskAuth](https://github.com/janaajankovic/context-aware-authentication)** (Master's thesis): risk-based authentication that scores each login and adapts with MFA or blocking. *Spring Boot, FastAPI, Redis, ELK Stack*
+- **[KindNet](https://github.com/marija-djurdjevic/KindNet)** (Bachelor's thesis): volunteer management platform. *ASP.NET, Angular, PostgreSQL*
 - **[Vehicle Rental & PSP](https://github.com/janaajankovic/rentacar-psp-integration)**: web shop with a custom Payment Service Provider and pluggable payment methods. *Spring Boot microservices, Eureka, Angular*
 - **[Tourist App](https://github.com/akoskissak/soa-team-5)**: microservices system with REST/RPC communication and full monitoring. *Go, Python, MongoDB, Neo4j, Docker*
-- **[KindNet](https://github.com/marija-djurdjevic/KindNet)** (Bachelor's thesis): volunteer management platform. *ASP.NET, Angular, PostgreSQL*
 
 ### 🛠️ Tech Stack
 - **Languages:** Java, C#, Go, Python, TypeScript, SQL
